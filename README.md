@@ -8,6 +8,7 @@ and [Shipyard](https://shipyard.build) out of the box.
 - [React](https://github.com/facebook/react/) - JavaScript library for building user interfaces
 - [Material-UI](https://github.com/mui-org/material-ui) - React components for faster and simpler web development
 
+
 ## Dependencies
 
 - [Docker](https://www.docker.com/) & [Docker Compose](https://docs.docker.com/compose/) - to build and run the app
